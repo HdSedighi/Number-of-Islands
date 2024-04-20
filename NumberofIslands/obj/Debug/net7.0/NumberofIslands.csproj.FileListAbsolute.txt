@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\bin\Debug\net7.0\NumberofIslands.exe
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\bin\Debug\net7.0\NumberofIslands.deps.json
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\bin\Debug\net7.0\NumberofIslands.runtimeconfig.json
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\bin\Debug\net7.0\NumberofIslands.dll
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\bin\Debug\net7.0\NumberofIslands.pdb
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.dll
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\refint\NumberofIslands.dll
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.pdb
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\NumberofIslands.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\Number of Islands\NumberofIslands\obj\Debug\net7.0\ref\NumberofIslands.dll
